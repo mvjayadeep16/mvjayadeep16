@@ -1,4 +1,23 @@
-# 💫 About Me:
+# 👨‍💻 About Me
+
+Hi, I'm **Venkata Jayadeep Maddipatla**, a passionate technology enthusiast and aspiring software developer currently pursuing a **Bachelor of Technology (B.Tech) in Computer Science and Engineering** at **SRM Institute of Science and Technology (SRMIST), Kattankulathur**.
+
+I enjoy exploring new technologies, building real-world projects, and continuously improving my problem-solving abilities. My interests include **Web Development, Java Programming, Data Structures & Algorithms, Artificial Intelligence, and Open Source Development**.
+
+### 🚀 Skills
+
+* Programming Languages: Java, C, C++, Python
+* Web Technologies: HTML, CSS, JavaScript
+* Tools & Platforms: Git, GitHub, VS Code, IntelliJ IDEA
+
+### 🌱 Currently Learning
+
+* Full-Stack Web Development
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* AI & Machine Learning
+
+# 
 🔭 I’m currently working on<br>• AI-powered healthcare solutions<br>• Web development projects<br>• Hackathon innovations<br><br>👯 I’m looking to collaborate on<br>• Open-source projects<br>• AI/ML applications<br>• Full-stack web development<br>• Student tech communities<br><br>🤝 I’m looking for help with<br>• Machine Learning<br>• Cloud Computing<br>• System Design<br>• Advanced Software Development<br><br>🌱 I’m currently learning<br>• Java & DSA<br>• Web Development<br>• Artificial Intelligence<br>• Git & GitHub<br><br>💬 Ask me about<br>• Java<br>• Python<br>• HTML/CSS/JavaScript<br>• GitHub<br>• Programming fundamentals<br><br>⚡ Fun fact<br>I enjoy building projects, participating in hackathons, and continuously exploring new technologies to solve real-world problems.
 
 
