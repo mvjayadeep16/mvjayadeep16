@@ -7,6 +7,7 @@ I enjoy exploring new technologies, building real-world projects, and continuous
 
 🔭 I’m currently working on<br>• AI-powered healthcare solutions<br>• Web development projects<br>• Hackathon innovations<br><br>👯 I’m looking to collaborate on<br>• Open-source projects<br>• AI/ML applications<br>• Full-stack web development<br>• Student tech communities<br><br>🤝 I’m looking for help with<br>• Machine Learning<br>• Cloud Computing<br>• System Design<br>• Advanced Software Development<br><br>🌱 I’m currently learning<br>• Java & DSA<br>• Web Development<br>• Artificial Intelligence<br>• Git & GitHub<br><br>💬 Ask me about<br>• Java<br>• Python<br>• HTML/CSS/JavaScript<br>• GitHub<br>• Programming fundamentals
 
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jayadeep_455)
