@@ -32,6 +32,17 @@ I enjoy exploring new technologies, building real-world projects, and continuous
 ![](https://streak-stats.demolab.com/?user=mvjayadeep16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mvjayadeep16&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
+# 📈 Repository Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mvjayadeep16&theme=tokyo-night"/>
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
