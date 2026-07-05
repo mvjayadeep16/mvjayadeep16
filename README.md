@@ -26,6 +26,7 @@ I enjoy exploring new technologies, building real-world projects, and continuous
   <img src="https://img.shields.io/github/stars/mvjayadeep16?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
+
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mvjayadeep16&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
