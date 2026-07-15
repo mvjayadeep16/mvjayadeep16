@@ -1,5 +1,3 @@
-# 👨‍💻 About Me
-
 Hi, I'm **Venkata Jayadeep Maddipatla**, a passionate technology enthusiast and aspiring software developer currently pursuing a **Bachelor of Technology (B.Tech) in Computer Science and Engineering** at **SRM Institute of Science and Technology (SRMIST), Kattankulathur**.
 
 I enjoy exploring new technologies, building real-world projects, and continuously improving my problem-solving abilities. My interests include **Web Development, Java Programming, Data Structures & Algorithms, Artificial Intelligence, and Open Source Development**.
