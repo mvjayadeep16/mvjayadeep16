@@ -7,7 +7,7 @@ I enjoy exploring new technologies, building real-world projects, and continuous
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jayadeep_455)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-jayadeep-maddipatla-b1a111385/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/mvjayadeep16)
